@@ -1,5 +1,5 @@
 # VeganV
-DSC Ewha Winter Project
+* DSC Ewha Winter Project
 
-What is VeganV? 
-A vegan ingredient checker with barcode scanner
+* What is VeganV? 
+    A vegan ingredient checker with barcode scanner
